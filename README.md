@@ -1,0 +1,1 @@
+This repo will include any and all creations that are associated with my browsing through the Full Stack Open course that is available online for free.
